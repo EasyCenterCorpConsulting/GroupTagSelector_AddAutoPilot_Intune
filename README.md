@@ -15,6 +15,10 @@ The script will then manage your CSV file by processing the hash of your device 
 # Description of the procedure.
 - **Requirement.**<br />
 Have the "SelectGroupTag.ps1" script and the "GroupTaglist.txt" file on a USB key.<br />
+<br />
+
+- **Workflow overview.**<br />
+![image](https://github.com/EasyCenterCorpConsulting/GroupTagSelector_AddAutoPilot_Intune/assets/136331253/a1d10fcd-e5ba-4894-aee1-c034378bc081)
 
 - **Follow the steps.**<br />
      - Plug in the USB drive.<br />
@@ -36,12 +40,32 @@ Have the "SelectGroupTag.ps1" script and the "GroupTaglist.txt" file on a USB ke
 
         ![image](https://github.com/EasyCenterCorpConsulting/GroupTagSelector_AddAutoPilot_Intune/assets/136331253/7cfb10e3-88d7-475a-843d-ae1f49a06836)
         
-    - Right click on the script then click on Run with PowerShell.<br />  
+    - Right click on the script then click on Run with PowerShell.<br />
     
-```diff
--In red, the Powershell script.
-+In green, the text file containing the organization's Group Tags.
-```
+ ```diff 
+ -In red, the Powershell script.
+ +In green, the text file containing the organization's Group Tags.
+``` 
+In the context of a virtual machine, it is possible to mount a network share containing its files.<br />
+Then, you can create a 'Temp' folder at the root of your C drive, place the files in it, and execute the script.<br />
+Don't forget to transfer the generated CSV file.<br />
+      
    ![image](https://github.com/EasyCenterCorpConsulting/GroupTagSelector_AddAutoPilot_Intune/assets/136331253/0576fcd0-84a1-469e-8c49-578e137f7d71)
+ 
+- A Windows pop-up appears, click Yes.<br />
 
-        
+ ![image](https://github.com/EasyCenterCorpConsulting/GroupTagSelector_AddAutoPilot_Intune/assets/136331253/fb9caa5f-edfb-483d-ae37-cc9c25c73033)
+ 
+ - The script ran successfully and the csv file is generated, click Enter to shut down the PC.<br />
+
+![image](https://github.com/EasyCenterCorpConsulting/GroupTagSelector_AddAutoPilot_Intune/assets/136331253/0f856f47-f74f-4213-9b91-b61d85540342)
+
+![image](https://github.com/EasyCenterCorpConsulting/GroupTagSelector_AddAutoPilot_Intune/assets/136331253/4723626a-9c71-4324-8b6e-c473890ef6de)
+
+
+-    For this last step, go to the Autopilot section of Intune and import the .CSV file starting with the name "AutoPilotHWID-****".<br />
+
+![image](https://github.com/EasyCenterCorpConsulting/GroupTagSelector_AddAutoPilot_Intune/assets/136331253/7a25a584-2f21-4dc0-82a3-8564f12128df)
+
+
+
