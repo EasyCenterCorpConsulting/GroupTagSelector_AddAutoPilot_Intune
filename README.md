@@ -60,7 +60,8 @@ Don't forget to transfer the generated CSV file.<br />
 
 ![image](https://github.com/EasyCenterCorpConsulting/GroupTagSelector_AddAutoPilot_Intune/assets/136331253/0f856f47-f74f-4213-9b91-b61d85540342)
 
-![image](https://github.com/EasyCenterCorpConsulting/GroupTagSelector_AddAutoPilot_Intune/assets/136331253/4723626a-9c71-4324-8b6e-c473890ef6de)
+ - An example of an Excel "csv" file.<br />
+![image](https://github.com/EasyCenterCorpConsulting/GroupTagSelector_AddAutoPilot_Intune/assets/136331253/85d89fac-1254-4154-8913-4bf0ac895db0)
 
 
 -    For this last step, go to the Autopilot section of Intune and import the .CSV file starting with the name "AutoPilotHWID-****".<br />
@@ -68,4 +69,9 @@ Don't forget to transfer the generated CSV file.<br />
 ![image](https://github.com/EasyCenterCorpConsulting/GroupTagSelector_AddAutoPilot_Intune/assets/136331253/7a25a584-2f21-4dc0-82a3-8564f12128df)
 
 
+# Thank you<br />
 
+![image](https://github.com/EasyCenterCorpConsulting/GroupTagSelector_AddAutoPilot_Intune/assets/136331253/7f76ed22-faa2-4dfa-9652-57f22187d213)
+
+### By. Christophe Ruiz.<br />  
+### Jim Marley "External consultant."<br />
