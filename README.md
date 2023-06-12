@@ -9,7 +9,7 @@ Then place the "GroupTaglist.txt" file in the same directory as the script.<br /
 After running the script, you can select the desired Group Tags.<br /> 
 The script will then manage your CSV file by processing the hash of your device associated with the selected Group Tags.<br />
 
-
+![image](https://github.com/EasyCenterCorpConsulting/GroupTagSelector_AddAutoPilot_Intune/assets/136331253/8f0d986a-29e4-4200-9ada-4cf60ccff58e)
 
 
 # Description of the procedure.
