@@ -58,7 +58,8 @@ Don't forget to transfer the generated CSV file.<br />
  
  - The script ran successfully and the csv file is generated, click Enter to shut down the PC.<br />
 
-![image](https://github.com/EasyCenterCorpConsulting/GroupTagSelector_AddAutoPilot_Intune/assets/136331253/0f856f47-f74f-4213-9b91-b61d85540342)
+![image](https://github.com/EasyCenterCorpConsulting/GroupTagSelector_AddAutoPilot_Intune/assets/136331253/f7d145b1-3428-42a1-9f37-c0c8404be4d9)
+
 
  - An example of an Excel "csv" file.<br />
 ![image](https://github.com/EasyCenterCorpConsulting/GroupTagSelector_AddAutoPilot_Intune/assets/136331253/85d89fac-1254-4154-8913-4bf0ac895db0)
