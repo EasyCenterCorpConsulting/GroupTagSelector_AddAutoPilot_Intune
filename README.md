@@ -76,4 +76,4 @@ Don't forget to transfer the generated CSV file.<br />
 
 ### By. Christophe Ruiz<br />  
 ### Jim Marley "External consultant"<br />
-### Florent NOSARI | Partner<br />
+### Florent NOSARI | ![image](https://github.com/EasyCenterCorpConsulting/GroupTagSelector_AddAutoPilot_Intune/assets/136331253/2d6f6b79-3ec9-4192-9aff-a81f675c7253)Partner<br /> https://nosari20.github.io/<br />
